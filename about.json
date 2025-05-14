@@ -1,5 +1,6 @@
 {
    "name" : "Tiger Stripes",
+   "component": true,
    "about_url" : "https://github.com/fefrei/discourse-tiger-stripes",
    "license_url": "https://github.com/fefrei/discourse-tiger-stripes/blob/master/LICENSE"
 }
